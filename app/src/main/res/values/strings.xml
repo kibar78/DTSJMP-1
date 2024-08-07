@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DTS</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="daftar">Daftar</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="logo_dts">Logo Dts</string>
+    <string name="new_message">New Message</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+</resources>
